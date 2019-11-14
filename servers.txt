@@ -38,6 +38,7 @@ jabbers.one
 jabber.org
 jabber.sk
 jabber.support
+jabber.tcpreset.net
 jabberes.org
 jabberpl.org
 jabjab.de
