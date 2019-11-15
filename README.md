@@ -34,6 +34,6 @@ Even if your site has a culinary blog theme, short indicate that the visitor can
 
 ## Terms of removal from the list
 
-**1. Inactive servers, servers with closed registration can be removed from the list. Servers can be returned back**
+**1. Inactive servers, servers with closed registration can be removed from the list. If it was not possible to find that the site belongs to the public XMPP server can be removed from the list.  Servers can be returned back**
 
 **2. The server can be excluded at the request of the server administrator**
