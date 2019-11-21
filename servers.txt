@@ -63,6 +63,7 @@ quicksy.im
 pimux.de
 riseup.net
 sj.ms
+skynetcloud.site
 snopyta.org
 suchat.org
 sure.im
@@ -87,7 +88,6 @@ xmpp.international
 xmpp.is
 xmpp.xyz
 xmpp.si
-xmpp.skynetcloud.site
 xmpp.jp
 yax.im
 yourdata.forsale
