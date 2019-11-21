@@ -87,6 +87,7 @@ xmpp.international
 xmpp.is
 xmpp.xyz
 xmpp.si
+xmpp.skynetcloud.site
 xmpp.jp
 yax.im
 yourdata.forsale
