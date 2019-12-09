@@ -48,6 +48,7 @@ kitsune.one
 kode.im
 konuro.net
 inb4404.com
+i2p.rocks
 lightwitch.org
 linuxlovers.at
 magicbroccoli.de
