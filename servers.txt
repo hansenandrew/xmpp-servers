@@ -59,7 +59,6 @@ netwhood.online
 ninja.im
 nixnet.xyz
 nologs.club
-nsa.li
 omemo.im
 otr.im
 quicksy.im
