@@ -24,8 +24,6 @@ diasporing.ch
 dismail.de
 disroot.org
 draugr.de
-faceless.city
-fysh.in
 gnu.gr
 jabb.im
 jabber.at
@@ -37,7 +35,6 @@ jabber.ru
 jabbers.one
 jabber.org
 jabber.sk
-jabber.support
 jabber.tcpreset.net
 jabberes.org
 jabberpl.org
