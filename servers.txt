@@ -77,7 +77,6 @@ verified.pm
 vipclub.pm
 vlibra.ru
 wiuwiu.de
-wusz.org
 xabber.org
 xmpp.chat
 xmpp.co
