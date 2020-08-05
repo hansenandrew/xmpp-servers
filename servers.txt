@@ -52,6 +52,7 @@ i2p.rocks
 lightwitch.org
 linuxlovers.at
 magicbroccoli.de
+marxist.club
 meckerspace.de
 movim.eu
 neko.im
