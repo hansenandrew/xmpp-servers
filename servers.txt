@@ -24,6 +24,7 @@ diasporing.ch
 dismail.de
 disroot.org
 draugr.de
+e2e.ee
 gnu.gr
 jabb.im
 jabber.at
