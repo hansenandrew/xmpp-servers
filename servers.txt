@@ -79,6 +79,7 @@ vlibra.ru
 wiuwiu.de
 xabber.org
 xmpp.chat
+xmpp.cloud
 xmpp.co
 xmpp.cx
 xmpp.dk
