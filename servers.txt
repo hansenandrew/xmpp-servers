@@ -49,6 +49,7 @@ kode.im
 konuro.net
 i2p.rocks
 lightwitch.org
+lime2.su
 linuxlovers.at
 magicbroccoli.de
 marxist.club
