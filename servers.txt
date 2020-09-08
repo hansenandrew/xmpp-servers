@@ -64,6 +64,7 @@ nologs.club
 omemo.im
 otr.im
 quicksy.im
+parloteo.es
 pimux.de
 riseup.net
 sj.ms
