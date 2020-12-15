@@ -91,6 +91,7 @@ xmpp.dk
 xmpp.fi
 xmpp.international
 xmpp.is
+xmpp.moe
 xmpp.xyz
 xmpp.si
 xmpp.jp
