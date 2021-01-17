@@ -43,6 +43,7 @@ jabber.uk
 jabber.tcpreset.net
 jabberes.org
 jabberpl.org
+jabbxi.de
 jabjab.de
 jwchat.org
 kde.org
