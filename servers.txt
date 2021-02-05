@@ -45,6 +45,7 @@ jabberes.org
 jabberpl.org
 jabbxi.de
 jabjab.de
+jix.im
 jwchat.org
 kde.org
 kitsune.one
