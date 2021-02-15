@@ -22,12 +22,14 @@ chinwag.im
 cock.li
 conversations.im
 creep.im
+crime.io
 diasporing.ch
 dismail.de
 disroot.org
 draugr.de
 e2e.ee
 gnu.gr
+hookipa.net
 jabb.im
 jabber.at
 jabber.cat
@@ -96,6 +98,7 @@ xmpp.is
 xmpp.moe
 xmpp.xyz
 xmpp.si
+xmpp.social
 xmpp.jp
 yax.im
 yourdata.forsale
