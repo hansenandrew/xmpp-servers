@@ -42,6 +42,10 @@ jabber.org
 jabber.skynetcloud.site
 jabber.sk
 jabber.uk
+jabberx.cc
+jabberx.ru
+jabberx.io
+jabberx.net
 jabber.tcpreset.net
 jabberes.org
 jabberpl.org
@@ -96,6 +100,8 @@ xmpp.fi
 xmpp.international
 xmpp.is
 xmpp.moe
+xmppx.io
+xmppx.ru
 xmpp.xyz
 xmpp.si
 xmpp.social
