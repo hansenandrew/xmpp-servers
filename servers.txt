@@ -108,4 +108,5 @@ xmpp.social
 xmpp.jp
 yax.im
 yourdata.forsale
+zecircle.xyz
 zloy.im
