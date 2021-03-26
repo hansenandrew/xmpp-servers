@@ -36,6 +36,8 @@ jabber.cat
 jabber.cc
 jabber.de
 jabber.fr
+jabber.hot-chilli.net
+jabber.lqdn.fr
 jabber.ru
 jabbers.one
 jabber.org
