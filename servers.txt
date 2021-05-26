@@ -29,6 +29,7 @@ disroot.org
 draugr.de
 e2e.ee
 gnu.gr
+hyperlife.xyz
 hookipa.net
 jabb.im
 jabber.at
