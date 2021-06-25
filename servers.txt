@@ -93,6 +93,7 @@ trashserver.net
 verified.pm
 vipclub.pm
 vlibra.ru
+umbrellix.net
 wiuwiu.de
 xabber.org
 xmpp.chat
